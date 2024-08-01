@@ -1,4 +1,4 @@
 # iOSProfileApp
 A SwiftUI-based app that showcases a user profile
 
-<img width="316" alt="Screenshot 2024-05-02 at 8 16 15 PM" src="https://github.com/sumershinde22/iOSProfileApp/assets/110345858/ce3cb70e-3530-4c7f-9990-8c831515632e">
+![Screenshot 2024-07-31 at 11 21 36 PM](https://github.com/user-attachments/assets/8ca012b3-7120-4331-a45a-2a13d91d7024)
